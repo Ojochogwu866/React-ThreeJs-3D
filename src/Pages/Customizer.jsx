@@ -23,7 +23,7 @@ const Customizer = () => {
         <>
           <motion.div
             key="custom"
-            className=" top-0 absoute left-0 z-10"
+            className=" absoute left-0 top-0 z-10"
             {...slideAnimation("left")}
           >
             <div className="flex items-center min-h-screen">
